@@ -1,0 +1,41 @@
+.margin-0 {
+    margin: 0px;
+}
+
+.link-img {
+    margin-bottom: 12px;
+}
+
+.non-outline {
+    outline: none;
+    border: none;
+}
+
+.margin-bot {
+    margin-bottom: 8px;
+}
+.margin-top {
+    margin-top: 16px;
+}
+.margin-top-28px {
+    margin-top: 28px;
+}
+.man-header {
+    margin: 8px 0px 30px;
+}
+.man-heading {
+    margin: 0px;
+}
+
+.man-body {
+    padding-right: 12px;
+}
+
+.block-add_user {
+    margin-right: 12px;
+    position: relative;
+}
+
+.nav-page-admin {
+    margin-bottom: 12px;
+}

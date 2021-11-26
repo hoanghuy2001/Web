@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+.btn-login {
+    background-color: var(--bg-pink-1);
+    width: 100%;
+    color: white;
+}
+.btn-login:hover {
+    background-color: var(--bg-pink-1-opacity);
+}
+
+
+.icon-red {
+    color: var(--bg-red-1);
+}
+.icon-pink {
+    color: var(--bg-pink-1);
+}
+.icon-orange {
+    color: var(--bg-orange-1);
+}
+.icon-light {
+    color: var(--bg-blue-light);
+}
+.icon-green {
+    color: var(--bg-green-3);
+}
+.color-green {
+    color: var(--bg-green-3);
+}
+
+.panel-form {
+    height: 400px;
+    overflow-y: auto;
+    padding: 8px 0px;
+    margin-bottom: 60px;
+}
+
+.msg-error {
+    color: coral;
+    margin: 0px;
+}

@@ -1,0 +1,23 @@
+.block-add_user {
+    margin-right: 12px;
+    position: relative;
+}
+.nav-page-admin {
+    margin-bottom: 12px;
+}
+
+.panel-form {
+    height: 400px;
+    overflow-y: auto;
+    padding: 8px 0px;
+    margin-bottom: 60px;
+}
+button[name="btnConfirm"] {
+    position: absolute;
+    left: 0px;
+    bottom: -40px;
+}
+.msg-error {
+    color: coral;
+    margin: 0px;
+}

@@ -1,0 +1,17 @@
+.btn-link {
+    text-decoration: none;
+}
+
+.table-user {
+    width: 100%;
+    overflow-x: hidden;
+}
+td {
+    padding: 0px 6px;
+}
+.td-center {
+    text-align: center;
+}
+.td-right {
+    text-align: right;
+}

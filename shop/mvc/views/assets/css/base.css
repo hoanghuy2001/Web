@@ -1,0 +1,50 @@
+:root {
+    --bg-top: #1c1c1c;
+    --bg-theme: rgb(255, 217, 0);
+}
+:root {
+    --bg-brown-1: #330000;
+    --bg-brown-2: #500000;
+    --bg-brown-3: #660099;
+    --bg-brown-4: #990066;
+    --bg-red-1: rgb(207, 14, 14);
+    --bg-orange-1: #FFA500;
+    --bg-orange-2: #f7bc4e;
+    --bg-pink-1: #FF00FF;
+    --bg-violet-0: #000033;
+    --bg-violet-1: #150050;
+    --bg-violet-2: #000066;
+    --bg-violet-3: #25274D;
+    --bg-violet-4: #610094;
+    --bg-blue-1: #0000CC;
+    --bg-blue-light: #00CED1;
+    --bg-blue-light-sea: #20B2AA;
+    --bg-green-3: #00CC00;
+    --bg-green-4: #00FF7F;
+    --bg-green-5: #00FA9A;
+    --bg-green-6: #00fa9a;
+    
+    
+    --bg-brown-1-opacity: #3300008e;
+    --bg-brown-2-opacity: #50000088;
+    --bg-brown-3-opacity: #66000085;
+    --bg-brown-4-opacity: #ff730000;
+    --bg-red-1-opacity: rgba(207, 14, 14, 0.645);
+    --bg-orange-1-opacity: #ffa600a4;
+    --bg-orange-2-opacity: #f7bc4eb0;
+    --bg-violet-0-opacity: #000033a6;
+    --bg-pink-1-opacity: #ff00ff9f;
+    --bg-pink-2-opacity: #ff00ff50;
+    --bg-violet-1-opacity: #1500509a;
+    --bg-violet-2-opacity: #00006686;
+    --bg-violet-3-opacity: #25274d98;
+    --bg-violet-4-opacity: #600094a1;
+    --bg-blue-1-opacity: #0000ccad;
+    --bg-blue-light-opacity: #00ced18c;
+    --bg-green-3-opacity: #00cc0088;
+    --bg-green-4-opacity: #00ff8021;
+    --bg-green-5-opacity: #00fa9a69;
+    --bg-green-5-1-opacity: #00fa9a67;
+    --bg-green-6-opacity: #00fa9a34;
+
+}

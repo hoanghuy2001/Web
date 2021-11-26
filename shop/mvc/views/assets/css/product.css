@@ -1,0 +1,42 @@
+.width-50px {
+    width: 50px;
+}
+.width-80px {
+    width: 80px;
+}
+.width-100px {
+    width: 100px;
+}
+.width-150px {
+    width: 150px;
+}
+.width-200px {
+    width: 200px;
+}
+.width-250px {
+    width: 250px;
+}
+.width-330px {
+    width: 330px;
+}
+.width-400px {
+    width: 400px;
+}
+.max-width-400px {
+    max-width: 400px;
+}
+.width-600px {
+    width: 600px;
+}
+.max-width-600px {
+    max-width: 600px;
+}
+.frame-preview-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+.link-img {
+    margin-bottom: 12px;
+}

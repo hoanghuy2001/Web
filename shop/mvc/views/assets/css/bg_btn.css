@@ -1,0 +1,35 @@
+
+.btn-radius {
+    border-radius: 30px;
+    cursor: default;
+}
+.btn-green {
+    color: green;
+}
+.btn-yellow {
+    color: var(--yellow);
+}
+.btn-red {
+    color: red;
+}
+.bg-green {
+    background-color: rgb(11, 202, 11);
+}
+.bg-yellow {
+    background-color: rgb(232, 217, 9);
+}
+.bg-error {
+    background-color: var(--bg-red-1);
+}
+.bg-gray {
+    background-color: rgb(0, 0, 0, 4%);
+    font-weight: 600;
+}
+.color-white {
+    color: white;
+}
+button[name="btnConfirm"] {
+    position: absolute;
+    left: 0px;
+    bottom: -40px;
+}

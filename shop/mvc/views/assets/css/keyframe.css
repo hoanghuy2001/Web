@@ -1,0 +1,14 @@
+@keyframes toLeft {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0%);
+    }
+}
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+        display: none;
+    }
+}
